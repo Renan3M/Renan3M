@@ -1,9 +1,9 @@
 ## 💡 Olá, seja bem-vindo!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-nunes-189817186/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-machado-374419148/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/245374/elias)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasInfnet&show_icons=true&theme=dark&icon_color=FFFFFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan3M&show_icons=true&theme=dark&icon_color=FFFFFF)
 
 ## 🚀 Tecnologias que mais utilizo 
 
